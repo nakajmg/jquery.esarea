@@ -12,6 +12,10 @@ Assist Markdown syntax on any textarea - jQuery plugin
 $('textarea').esarea();
 ```
 
+## key bindings
+
+See [original document](https://github.com/fukayatsu/esarea#key-bindings)
+
 ## LICENCE
 
 The MIT License (MIT)  
